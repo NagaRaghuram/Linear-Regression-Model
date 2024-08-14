@@ -3,6 +3,10 @@ Welcome to the House Price Prediction project! This innovative tool harnesses th
 various features like size, location, and more. Whether you're a buyer looking for the best deal or a seller aiming to price your property right, this project 
 provides valuable insights to navigate the real estate market.
 
+Usage:
+(1)Clone this repository: git clone https://github.com/NagaRaghuram (Your Username)/customer-segmentation.git cd customer-segmentation
+(2)Update the dataset path in the code to your CSV file. (3)Run the script:python
+
 🚀 Key Features
 >>Data Wizardry: Effortlessly cleans and preprocesses data to ensure high-quality inputs for modeling.
 >>Model Power: Explore multiple regression techniques, including Linear Regression and Random Forest, to find the best fit for your data.
